@@ -9,4 +9,6 @@ Arduino Yun can be used to easy control your robot
 # Now we talk about our project 
 You have to work as a beginer first on Arduino Yun 
 try blink easy review on https://www.twilio.com/blog/2015/02/arduino-wifi-getting-started-arduino-yun.html
-learn about Bridge library 
+learn about Bridge library https://www.arduino.cc/en/Tutorial/Bridge
+Bridge library used to control the Arduino pins through your wifi 
+You can control your Arduino Yun through Apple devices ( Yun Controller https://itunes.apple.com/en/app/yun-controller/id858835744?mt=8 )
